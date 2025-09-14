@@ -239,7 +239,7 @@ export default function PersianMobileApp() {
               <div className="relative group">
                 <div className="w-28 h-28 bg-gradient-to-br from-pink-400 via-purple-500 to-indigo-600 rounded-full p-1 shadow-2xl group-hover:shadow-3xl transition-all duration-300 group-hover:scale-110">
                   <img
-                    src="/smiling-hijabi-professional.png"
+                    src="https://tse4.mm.bing.net/th/id/OIP.JmJSlC3GkxCrShhy46BkTAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
                     alt="Team member 1"
                     className="w-full h-full rounded-full object-cover border-3 border-white"
                   />
@@ -254,7 +254,7 @@ export default function PersianMobileApp() {
               <div className="relative group">
                 <div className="w-28 h-28 bg-gradient-to-br from-cyan-400 via-blue-500 to-purple-600 rounded-full p-1 shadow-2xl group-hover:shadow-3xl transition-all duration-300 group-hover:scale-110">
                   <img
-                    src="/smiling-hijabi-professional.png"
+                    src="https://static.vecteezy.com/system/resources/previews/029/319/701/original/instagram-icon-isolated-on-transparent-background-social-media-app-symbol-high-resolution-free-png.png"
                     alt="Team member 2"
                     className="w-full h-full rounded-full object-cover border-3 border-white"
                   />

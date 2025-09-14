@@ -127,7 +127,7 @@ export default function PersianMobileApp() {
                 <div className="w-1 h-1 bg-white rounded-full"></div>
                 <div className="w-1 h-1 bg-white rounded-full"></div>
               </div>
-              <span className="text-xs !text-white">Liver</span>
+              <span className="text-xs !text-white">LiOR</span>
               <div className="flex items-center gap-1">
                 <div className="w-4 h-2 bg-white rounded-sm opacity-90"></div>
                 <div className="w-1 h-3 bg-white rounded-sm"></div>
@@ -228,7 +228,7 @@ export default function PersianMobileApp() {
             </div>
 
             <h1 className="text-4xl font-black text-white mb-3 tracking-wide animate-fade-in" dir="rtl">
-              تیم دیزاین
+              تیم ICYRAN
             </h1>
             <p className="text-base text-white/90 mb-10 font-medium" dir="rtl">
               خلاقیت بی‌حد و حصر در هر پیکسل

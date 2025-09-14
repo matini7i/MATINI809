@@ -606,7 +606,7 @@ export default function PersianMobileApp() {
                   className="text-2xl font-black mb-4 text-white bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
                   dir="rtl"
                 >
-                  تیم طراحی اینفوگرافیک
+                  تیم طراحی آیسیران
                 </h3>
                 <p
                   className="text-sm leading-relaxed max-w-xs mx-auto text-white"
@@ -685,7 +685,7 @@ export default function PersianMobileApp() {
               {/* Copyright */}
               <div className="border-t border-gray-700 pt-6">
                 <p className="text-xs text-white" dir="rtl" style={{ color: "#ffffff !important" }}>
-                  © ۱۴۰۳ تیم طراحی اینفوگرافیک. تمامی حقوق محفوظ است.
+                  © ۱۴۰۳ تیم طراحی آیسیران. تمامی حقوق محفوظ است.
                 </p>
               </div>
             </div>

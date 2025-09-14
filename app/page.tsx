@@ -637,7 +637,7 @@ export default function PersianMobileApp() {
                   >
                     <Mail className="w-4 h-4" />
                     <span className="text-sm font-medium" style={{ color: "#ffffff !important" }}>
-                      info@infographicdesign.ir
+                      info@iCYRAN.HELP.ir
                     </span>
                   </div>
                 </div>
